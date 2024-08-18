@@ -1,7 +1,5 @@
 #!/usr/bin/python
 #
-# By Xiaotong Li
-#
 # Multi-Scale CLEAN (MS CLEAN)
 #
 import numpy
