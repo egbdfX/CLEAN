@@ -1,6 +1,6 @@
 # CLEAN codes
 
-Here are the python codes of several types of CLEAN. The inputs (.mat files) are generated based on the Measurement Set [HIP-274](https://jira.skatelescope.org/browse/HIP-274).
+Here are the python codes of several types of CLEAN. The inputs (.mat files) are generated based on the Measurement Set [HIP-274](https://jira.skatelescope.org/browse/HIP-274). The codes are written according to the theory of Hogbom CLEAN (Hogbom 1974) and Multi-Scale CLEAN (Cornwell 2008).
 
 To run the codes, simply use:
 
