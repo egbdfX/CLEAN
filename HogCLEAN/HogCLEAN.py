@@ -1,7 +1,5 @@
 #!/usr/bin/python
 #
-# By Xiaotong Li
-#
 # Hogbom CLEAN
 #
 import numpy
